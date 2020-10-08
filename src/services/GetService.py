@@ -1,4 +1,4 @@
-from input.GetCompany import GetCompany
+from src.input.GetCompany import GetCompany
 
 class GetService:
 
